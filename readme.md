@@ -7,7 +7,7 @@ of 2021 and the whole of 2022. Please read below for more information.
 # Notices
 -> i am in my final year at school, so i will not be as active as i usually am.
 -> Development will slow during this period. but when summer rolls around things will
-   get back to normal hopefully
+   get back to normal.
 # Concorde Bot
 As you can see, Concorde Bot is now in a state where it is almost ready for a public
 version to be released. We just have to figure out hosting it and some other technical
@@ -24,7 +24,7 @@ The Coding Network - Our server. The Headquaters of TCN. The home of all things 
 Concorde - Our bot's server where all of its testing is done.
 World Scouts Organization - a server that is in the works for the World Scouts Organization.
 Galaxy's World - A server for a friend. Theres not much else to this one.
-# -> Game Development
+# Game Development
 We have a plan in the works to develop a game of some kind in summer 2022. We do not
 yet know how many people we will need to hire for the game to be made, but we are focusing
 on making a game similar to Just Cause 3. closer to the time we will update the information
